@@ -1,0 +1,20 @@
+userModel
+fullName-String
+email-string
+password-string
+cart-array
+isAdmin-Boolean
+order-array
+contact-Number
+photo- database
+
+
+product
+
+image - database
+name-String
+price-Number
+discount-Nukber
+bg-color
+pannel-color
+text-color
